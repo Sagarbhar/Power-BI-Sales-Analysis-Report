@@ -16,7 +16,7 @@ The TechnoEdge sales dataset contains a wealth of information about the company'
 ## Objectives
 1) To analyze sales data for TechnoEdge company across different regions, countries, and product categories.
 
-2)To identify trends and patterns in sales data that can help improve business performance.
+2) To identify trends and patterns in sales data that can help improve business performance.
 
 3) To understand customer behavior and preferences based on their buying patterns.
 
